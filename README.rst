@@ -45,11 +45,13 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Integracja z TravisCI:
     https://travis-ci.org/Kantorex/se_hello_printer_app.svg?branch=master
-  ::
+    .. image:: https://travis-ci.org/Kantorex/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/Kantorex/se_hello_printer_app
 
     ...
 - Monitoring na Statuscake:
     https://app.statuscake.com/UptimeStatus.php?tid=3976232
+
 
 Pomocnicze
 ==========
