@@ -9,3 +9,7 @@ script:
   - make lint
   - make test
   - make docker_build
+deply:
+  - provider: heroku
+  - app: radiant-harbor-52961
+  - api_key: ${HEROKU_API_KEY}
